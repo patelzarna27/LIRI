@@ -1,0 +1,23 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "Language Interpretation and Recognition Interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patelzarna27/LIRI.git"
+  },
+  "keywords": [
+    "zarna",
+    "Liri"
+  ],
+  "author": "patelzarna27",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patelzarna27/LIRI/issues"
+  },
+  "homepage": "https://github.com/patelzarna27/LIRI#readme"
+}
