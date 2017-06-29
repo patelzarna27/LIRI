@@ -3,13 +3,13 @@
 ## Introduction
 LIRI is like SIRI (from iOS).  It is a command line node app that takes in parameters and outputs data.
 
-##Setup
-####0. Clone the repo
+## Setup
+#### 0. Clone the repo
 
-####1. Run npm install
+#### 1. Run npm install
 
 
-##Run the application
+## Run the application
 
 * To install globally:
 ```
